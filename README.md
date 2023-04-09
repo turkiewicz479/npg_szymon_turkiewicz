@@ -1,0 +1,1 @@
+to jest plik readme do zadania 2
