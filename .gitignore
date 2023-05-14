@@ -1,1 +1,5 @@
-dokument1.txt
+**/logs
+**/build
+*.pdf
+*.tmp
+*.log
